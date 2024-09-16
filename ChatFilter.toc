@@ -1,0 +1,9 @@
+## Interface: 100007
+## Title: Chat Filter
+## Notes: Filter spam messages in public channels (WIP)
+## Author: Whipshout
+## Version: 1.0
+## IconTexture: Interface\Addons\ChatFilter\Icons\icon.tga
+## SavedVariables: ChatFilterDB
+
+ChatFilter.lua
