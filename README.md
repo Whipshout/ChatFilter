@@ -1,3 +1,8 @@
+# Info
+
+- I was annoyed by the spam in the general and trade channels so I decided to make an addon so I could learn something new in the process
+- First time writing lua, sorry :')
+
 # Install
 
 - Download ChatFilter.zip
